@@ -15,4 +15,5 @@
 //= require turbolinks
 //= require bootstrap
 //= require bootstrap_datetimepicker_railsx/bootstrap-datetimepicker
+//= require bootstrap_datetimepicker_railsx/locales/bootstrap-datetimepicker.zh-CN.js
 //= require_tree .

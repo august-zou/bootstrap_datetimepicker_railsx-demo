@@ -30,7 +30,8 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
-gem 'bootstrap_datetimepicker_railsx',:git => "https://github.com/august-zou/bootstrap_datetimepicker_railsx.git"
+gem "bootstrap_datetimepicker_railsx",:git =>"https://github.com/august-zou/bootstrap_datetimepicker_railsx.git"
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
